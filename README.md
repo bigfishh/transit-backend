@@ -1,8 +1,7 @@
-# README
-<h1 align="center">CatThoughts 🐱💻 </h1>
+<h1 align="center">Access Transit 🚞 </h1>
 
 <div align="center">
-  A <code>Rails</code> microblogging web application designed as Twitter for cats
+  A <code>JavaScript</code> application that locates the subway stations with elevators and escalators in New York City 
 </div>
 
 <br />
