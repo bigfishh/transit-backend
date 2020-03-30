@@ -1,24 +1,42 @@
 # README
+<h1 align="center">CatThoughts 🐱💻 </h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<div align="center">
+  A <code>Rails</code> microblogging web application designed as Twitter for cats
+</div>
 
-Things you may want to cover:
+<br />
 
-* Ruby version
+## Features 
 
-* System dependencies
 
-* Configuration
+## Tech Stack
+This web app is built with the following:
 
-* Database creation
+**Backend**
+- Ruby [2.6.1]
+- Rails [~> 6.0.2] - MVC web framework used as an API
+- Active Model Serializers [~> 0.10.0] - Serializing API routes to JSON
+- PostgreSQL [>= 0.18, < 2.0] - Database
 
-* Database initialization
+[**Front End**](https://github.com/bigfishh/transit_frontend)
+- Vanilla JavaScript [ES6]
+- Custom CSS3 styling 
+- Google Maps JavaScript API
 
-* How to run the test suite
+## Installing
 
-* Services (job queues, cache servers, search engines, etc.)
+**Backend Installation:**
 
-* Deployment instructions
+- Clone this repo to your local machine `git clone <this-repo-url>`
+- run `bundle install` to install required dependencies
+- run `rails db:create` to create a database locally.
+- run `rails db:migrate` to create tables into the database.
+- run `rails db:seed` to create seed data.
+- run `rails s` to run the server. 
 
-* ...
+**Frontend Installation:** 
+
+- Clone [frontend repo](https://github.com/bigfishh/transit_frontend) to your local machine `git clone <frontend-repo-url>`
+- Ensure *transit_backend* is running locally on `http://localhost:3000/`
+- run `open index.html`
