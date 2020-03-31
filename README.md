@@ -37,5 +37,5 @@ This web app is built with the following:
 **Frontend Installation:** 
 
 - Clone [frontend repo](https://github.com/bigfishh/transit_frontend) to your local machine `git clone <frontend-repo-url>`
-- Ensure *transit_backend* is running locally on `http://localhost:3000/`
+- Ensure *transit-backend* is running locally on `http://localhost:3000/`
 - run `open index.html`
