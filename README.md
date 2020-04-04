@@ -10,7 +10,9 @@
   </sub>
 </div>
 
-<br />
+<p align="center">
+  <img width="100%" height="60%" src="access-transit.gif">
+</p>
 
 ## Features 
 - View MTA subway stations via Google Maps
