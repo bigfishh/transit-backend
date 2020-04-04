@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root 'stations#index'
   get "/features/escalators", to: "features#escalator"
   get "/features/elevators", to: "features#elevator"
   resources :station_features
