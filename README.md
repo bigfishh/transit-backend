@@ -17,7 +17,7 @@
 <div align="center">
   <p>
   🧭Explore: 
-  <a href="https://www.youtube.com/watch?v=nuExyylFh0I">Demo</a> || <a href="https://github.com/bigfishh/transit-frontend">Frontend</a>
+  <a href="https://www.youtube.com/watch?v=nuExyylFh0I">Demo</a> || <a href="https://transit-access.herokuapp.com/">Deployed App</a> || <a href="https://github.com/bigfishh/transit_backend">Backend</a>
   </p>
 </div>
 
